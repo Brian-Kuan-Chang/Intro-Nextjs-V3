@@ -1,3 +1,43 @@
+# Introduction to Next.js 13+ (v3) Workshop Project
+
+This repository contains code written following the course [Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/) by Scott Moss on Frontend Masters. The original course repository can be found [here](https://github.com/Hendrixer/intro-nextjs-v3).
+
+## Course Highlights
+
+The course focuses on several key topics in Next.js:
+
+### Server-Side Components and Client-Side Components
+
+Learn how to distinguish between server-side and client-side components for optimized rendering.
+
+### Server-Side Rendering (SSR)
+
+Get hands-on experience with server-side rendering techniques in Next.js.
+
+### Routing
+
+- **App Router**: Understand the role of the App Router in Next.js.
+- **Page**: Dive into the details of page-based routing.
+- **Layout**: Learn how to design layouts that are used across multiple pages.
+- **Error Handling**: Understand how to handle errors effectively.
+- **Loading States**: Implement loading indicators for better user experience.
+
+### Server Actions on Forms
+
+Learn how to handle form submissions and server actions effectively.
+
+### API Conventions in Next.js
+
+Get up to speed with the new conventions for writing APIs in Next.js.
+
+### Middleware
+
+Understand how to implement middleware in your Next.js application.
+
+## Acknowledgments
+
+Big thanks to Scott Moss for creating this amazing course! Check out the [original course](https://frontendmasters.com/courses/next-js-v3/) for more details.
+
 # Intro-Nextjs-V3
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
